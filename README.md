@@ -1,4 +1,4 @@
-# bca-first-year-work — Sushmitha Lakkireddy
+# Lakkireddy-Sushmitha-Protofolio — Sushmitha Lakkireddy
 
 Welcome to my personal portfolio website! This project showcases my education, technical skills, academic projects, certifications, interests, and volunteering experience.
 
